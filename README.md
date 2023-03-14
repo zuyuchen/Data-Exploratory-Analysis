@@ -1,0 +1,1 @@
+# Data-Exploratory-Analysis investigating user data of movieLens; visualize data and compute correlation and statistics to get insights of the user's preferences on movie gengres given their profiles(age, gender, jobs).
